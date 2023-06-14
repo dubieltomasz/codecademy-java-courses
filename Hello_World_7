@@ -1,0 +1,4 @@
+$ ls
+$ javac Compiling.java
+$ ls
+$ java Compiling
